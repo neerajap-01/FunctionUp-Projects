@@ -1,6 +1,6 @@
-<h1 align="center">Nike Clone</h1>
+<h1 align="center">FunctionUp Projects</h1>
 
-<h3 align="center">It's a MERN Stack E-commerce web application with all the major functionalities</h3>
+<h3 align="center">This repository contains all the Projects links and info that I've build at FunctionUp</h3>
 
 <br />
 
@@ -61,7 +61,6 @@ I've build some projects during my cohort session they are real-industries based
 - Redis Insight-Preview
 - MongoDB compass
 
-<br />
 
 ## Contact
 
